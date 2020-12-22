@@ -10,45 +10,9 @@
 
 5) Tech'd Out Podcast - Episode 1: The Internet, Browsers, and How JavaScript Became Trendy
 
-2:28 - 11:15
-
-12:28 - 14:55
-
-15:20 - 22:00
-
-23:15 - 41:20
-
-43:00 - 47:10
-
-47:55 - 53:50
-
-54:50 - 59:45
-
 6) Tech'd Out Podcast - Episode 8: Servers and The Cloud
 
-0:50 - 5:40
-
-8:35 - 11:40
-
-17:40 - 22:30
-
-22:55 - 36:30
-
-44:25 - 59:15
-
 7) Tech'd Out Podcast - Episode 11: Browsers and Web Apps: How They're Basically Just Tacos
-
-1:30 - 2:35
-
-4:45 - 10:30
-
-12:10 - 18:30
-
-20:00 - 30:00
-
-33:00 - 44:00
-
-45:45 - 55:20
 
 8) What Is HTTP (https://www.w3schools.com/whatis/whatis_http.asp)
 

@@ -40,10 +40,10 @@
 
 19) The Event Loop presented by Philip Roberts at JSConf EU (https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-20) Assignment A: https://repl.it/@ajLapidTTP2X/Assignment-A-refactorFunctionsJS
+20) Assignment A: https://repl.it/@meccuny2xadvisi/Assignment-A-refactorFunctionsJS#instructions.md
 
-21) Assignment B: https://repl.it/@ajLapidTTP2X/Assignment-B-pairSumTDD
+21) Assignment B: https://repl.it/@meccuny2xadvisi/Assignment-B-pairSumTDD#prompt.md
 
-22) Assignment C: https://repl.it/@ajLapidTTP2X/Assignment-C-countdownSumAndFactorial
+22) Assignment C: https://repl.it/@meccuny2xadvisi/Assignment-C-countdownSumAndFactorial#index.js
 
-23) Assignment D: https://repl.it/@ajLapidTTP2X/Assignment-D-Request-Parameters-and-Request-Queries
+23) Assignment D: https://repl.it/@meccuny2xadvisi/Assignment-D-Request-Parameters-and-Request-Queries#prompt.md

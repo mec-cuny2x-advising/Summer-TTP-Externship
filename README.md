@@ -1,23 +1,19 @@
-# Tech Talent Pipeline Residency: Summer 2020 Bootcamp
+# Tech Talent Pipeline Residency: Winter 2021 Bootcamp
 
 Class Days and Class Times:
 
 Monday - Friday, 10:00AM - 4:00PM
 
 Dates:
-May 27th, 2020 (Wednesday) - June 22nd, 2020 (Monday)
+January 4th, 2021 (Monday) - January 29th, 2021 (Friday)
 
-Google Classroom: https://classroom.google.com/c/ODcxNjAwMDUwNDRa
-
-Slack Workspace: https://summer2020ttp.slack.com
-
-Lead Instructor: Shahid Sarker
+Lead Instructor: TBA
 
 Teaching Assistants: TBA
 
-Program Manager: Allan James S. Lapid
+Program Manager: Juan Velez
 
-Emails: shahid.sarker@gmail.com, ajLapid718@gmail.com
+Emails: juvelez@mec.cuny.edu
 
 ---
 

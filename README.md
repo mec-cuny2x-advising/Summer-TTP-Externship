@@ -1,11 +1,7 @@
 # Tech Talent Pipeline Residency: Winter 2021 Bootcamp
 
-Class Days and Class Times:
-
-Monday - Friday, 10:00AM - 4:00PM
-
 Dates:
-January 4th, 2021 (Monday) - January 29th, 2021 (Friday)
+July - August: TBD
 
 Lead Instructor: TBA
 

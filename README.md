@@ -1,7 +1,7 @@
 # Tech Talent Pipeline Residency: Winter 2021 Bootcamp
 
 Dates:
-July - August: TBD
+June - August: TBD
 
 Lead Instructor: TBA
 
@@ -15,11 +15,7 @@ Emails: juvelez@mec.cuny.edu
 
 Daily Schedule (Subject To Change!)
 
-**10:00AM - 12:00PM:**: Lecture, Review, Demo, Start Workshop For The Day
-
-**12:00PM - 1:00PM**: Lunch
-
-**1:00PM - 4:00PM**: Continuation of Lecture, Complete The Workshops/Homework For The Day
+**1:00PM - 4:00PM**: Workshop Lecture, Assignment of activities
 
 ---
 
@@ -27,43 +23,85 @@ Daily Schedule (Subject To Change!)
 
 - Pre-Bootcamp Material
 
-- Class Session 1: Pilot Assessment and Collaborative Workflow I | (05/28/2020)
+- Class Session 1: Pilot Assessment and Schedule Introduction | (06/21/2021)
 
-- Class Session 2: Collaborative Workflow I and Introduction to JS | (05/29/2020)
+- Class Session 2: Review Collaborative Workflow I | (06/22/2021)
 
-- Class Session 3: DOM Manipulation | (06/01/2020)
+- Class Session 3: Collaborative Workflow II DOM Manipulation | (06/23/2021)
 
-- Class Session 4: Introduction to React | (06/02/2020)
+- Class Session 4: DOM Manipulation I | (06/24/2021)
 
-- Class Session 5: Introduction to External API Requests and ReactJS | (06/03/2020)
+- Class Session 5: Introduction to External API Requests and ReactJS | (06/25/2021)
 
-- Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/04/2020)
+- Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/28/2021)
 
-- Class Session 7: React Router and Client-Side Routing in a SPA | (01/10/2020)
+- Class Session 7: React Router and Client-Side Routing in a SPA | (06/29/2021)
 
-- Class Session 8: State Management with Redux and React-Redux | (01/11/2020)
+- Class Session 8: State Management with Redux and React-Redux | (06/30/2021)
 
-- Class Session 9: Introduction to NodeJS | (01/13/2020)
+- Class Session 9: Introduction to NodeJS | (07/01/2021)
 
-- Class Session 10: CRUD App I | (01/14/2020)
+- Class Session 10: CRUD App I | (07/02/2021)
 
-- Class Session 11: CRUD App II | (01/15/2020)
+- Class Session 11: CRUD App II | (07/05/2021)
 
-- Class Session 12: CRUD App III | (01/16/2020)
+- Class Session 12: CRUD App III | (07/06/2021)
 
-- Class Session 13: Project Building I | (01/17/2020)
+- Class Session 13: Project Building I | (07/07/2021)
 
-- Class Session 14: Project Building II | (01/18/2020)
+- Class Session 14: Project Building II | (07/08/2021)
 
-- Class Session 15: Project Building III | (01/20/2020)
+- Class Session 15: Project Building III | (07/09/2021)
 
-- Class Session 16: Project Building IV | (01/21/2020)
+- Class Session 16: Project Building IV | (07/12/2021)
 
-- Class Session 17: Project Building V | (01/22/2020)
+- Class Session 17: Project Building V | (07/13/2021)
 
-- Class Session 18: Project Building VI | (01/23/2020)
+- Class Session 18: Project Building VI | (07/14/2021)
 
-- Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
+- Class Session 19: Exit Assessment and Demo Day | (07/15/2020)
+
+- Class Session 20: | (07/16/2021)
+
+- Class Session 21: | (07/19/2021)
+
+- Class Session 22: | (07/20/2021)
+
+- Class Session 23: | (07/21/2021)
+
+- Class Session 24: | (07/22/2021)
+
+- Class Session 25: | (07/23/2021)
+
+- Class Session 26: | (07/26/2021)
+
+- Class Session 27: | (07/27/2021)
+
+- Class Session 28: | (07/28/2021)
+
+- Class Session 29: | (07/29/2021)
+
+- Class Session 30: | (07/30/2021)
+
+- Class Session 31: | (08/02/2021)
+
+- Class Session 32: | (08/03/2021)
+
+- Class Session 33: | (08/04/2021)
+
+- Class Session 34: | (08/05/2021)
+
+- Class Session 35: | (08/06/2021)
+
+- Class Session 36: | (08/09/2021)
+
+- Class Session 37: | (08/10/2021)
+
+- Class Session 38: | (08/11/2021)
+
+- Class Session 39: | (08/12/2021)
+
+- Class Session 40: | (08/13/2021)
 
 ---
 

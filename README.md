@@ -3,7 +3,7 @@
 Dates:
 June - August: TBD
 
-Lead Instructor: TBA
+Lead Instructor: Jonathan Chin
 
 Teaching Assistants: TBA
 

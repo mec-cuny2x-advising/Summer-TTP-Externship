@@ -94,33 +94,33 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 26: Tech Interview Preparation I
 
-- Class Session 27: 
+- Class Session 27: Project
 
 - Class Session 28: Tech Interview Preparation I
 
-- Class Session 29: ...
+- Class Session 29: Project
 
 - Class Session 30: Tech Interview Preparation II
 
-- Class Session 31: ...
+- Class Session 31: Project
 
 - Class Session 32: Tech Interview Preparation III
 
-- Class Session 33: ...
+- Class Session 33: Project
 
 - Class Session 34: Tech Interview Preparation IV
 
-- Class Session 35: ...
+- Class Session 35: Project
 
-- Class Session 36: ...
+- Class Session 36: Tech Interview Preparation V
 
-- Class Session 37: ...
+- Class Session 37: Project
 
-- Class Session 38: ...
+- Class Session 38: Tech Interview Preparation VI
 
-- Class Session 39: ...
+- Class Session 39: Project
 
-- Class Session 40: ...
+- Class Session 40: Tech Interview Preparation VII
 
 - Exit Assessment and Demo Day | 
 

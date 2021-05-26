@@ -1,4 +1,4 @@
-# Tech Talent Pipeline Residency: Winter 2021 Bootcamp
+# TTP Residency: Summer 2021 Experiential Learning Externship
 
 Dates:
 June - August: TBD
@@ -25,83 +25,104 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 1: Pilot Assessment and Schedule Introduction | (06/21/2021)
 
-- Class Session 2: Review Collaborative Workflow I | (06/22/2021)
+- Class Session 2: Review of Coding Principles I | 
+  -- using JavaScript - variables, functions
 
-- Class Session 3: Collaborative Workflow II DOM Manipulation | (06/23/2021)
+- Class Session 3: Review of Coding Principles II | 
+  -- using JavaScript - iterations
 
-- Class Session 4: DOM Manipulation I | (06/24/2021)
+- Class Session 4: Collaborative Workflow I | 
+  -- Introduction to GIT & GITHUB
 
-- Class Session 5: Introduction to External API Requests and ReactJS | (06/25/2021)
+- Class Session 5: Collaborative Workflow II | 
+  -- Git continued, outline projects
 
-- Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/28/2021)
+- Class Session 6: Full-Stack Development I | 
+  -- Front-end, back-end, API & databases
 
-- Class Session 7: React Router and Client-Side Routing in a SPA | (06/29/2021)
+- Class Session 7: Full-Stack Development II | 
+  -- Front-ends: How HTML, CSS & JavaScript Work Together on the web
 
-- Class Session 8: State Management with Redux and React-Redux | (06/30/2021)
+- Class Session 8: Full-Stack Development III | 
+  -- DOM manipulation - changing the HTML & CSS with JavaScript
 
-- Class Session 9: Introduction to NodeJS | (07/01/2021)
+- Class Session 9: Full-Stack Development IV | 
+  -- more DOM manipulation - events
 
-- Class Session 10: CRUD App I | (07/02/2021)
+- Class Session 10: Introduction to NodeJS | 
+  -- Deeper into JavaScript
 
-- Class Session 11: CRUD App II | (07/05/2021)
+- Class Session 11: A little more JS
 
-- Class Session 12: CRUD App III | (07/06/2021)
+- Class Session 12: The Terminal
 
-- Class Session 13: Project Building I | (07/07/2021)
+- Class Session 13: More Terminal
 
-- Class Session 14: Project Building II | (07/08/2021)
+- Class Session 14: Packages and NPM
 
-- Class Session 15: Project Building III | (07/09/2021)
+- Class Session 15: REACT
+  -- REACT Components, Props & State
 
-- Class Session 16: Project Building IV | (07/12/2021)
+- Class Session 16: Pair programming
 
-- Class Session 17: Project Building V | (07/13/2021)
+- Class Session 17: REACT II
+  -- State using hooks
 
-- Class Session 18: Project Building VI | (07/14/2021)
+- Class Session 18: REACT III
+  -- Advanced React Patterns
 
-- Class Session 19: Exit Assessment and Demo Day | (07/15/2020)
+- Class Session 19: REACT IV
+  -- React Router
 
-- Class Session 20: | (07/16/2021)
+- Class Session 20: REACT V
+  -- Forms
 
-- Class Session 21: | (07/19/2021)
+- Class Session 21: REACT VI
+  -- Form Validation
 
-- Class Session 22: | (07/20/2021)
+- Class Session 22: APIs & SDKs
 
-- Class Session 23: | (07/21/2021)
+- Class Session 23: Async Calls
 
-- Class Session 24: | (07/22/2021)
+- Class Session 24: Databases I
+  -- SQL vs NoSQL, Setup and Connecting
 
-- Class Session 25: | (07/23/2021)
+- Class Session 25: Databases II
+  -- Sequalize with REACT
 
-- Class Session 26: | (07/26/2021)
+- Class Session 25: Intro to DS
 
-- Class Session 27: | (07/27/2021)
+- Class Session 26: Tech Interview Preparation I
 
-- Class Session 28: | (07/28/2021)
+- Class Session 27: 
 
-- Class Session 29: | (07/29/2021)
+- Class Session 28: Tech Interview Preparation I
 
-- Class Session 30: | (07/30/2021)
+- Class Session 29: ...
 
-- Class Session 31: | (08/02/2021)
+- Class Session 30: Tech Interview Preparation II
 
-- Class Session 32: | (08/03/2021)
+- Class Session 31: ...
 
-- Class Session 33: | (08/04/2021)
+- Class Session 32: Tech Interview Preparation III
 
-- Class Session 34: | (08/05/2021)
+- Class Session 33: ...
 
-- Class Session 35: | (08/06/2021)
+- Class Session 34: Tech Interview Preparation IV
 
-- Class Session 36: | (08/09/2021)
+- Class Session 35: ...
 
-- Class Session 37: | (08/10/2021)
+- Class Session 36: ...
 
-- Class Session 38: | (08/11/2021)
+- Class Session 37: ...
 
-- Class Session 39: | (08/12/2021)
+- Class Session 38: ...
 
-- Class Session 40: | (08/13/2021)
+- Class Session 39: ...
+
+- Class Session 40: ...
+
+- Exit Assessment and Demo Day | 
 
 ---
 

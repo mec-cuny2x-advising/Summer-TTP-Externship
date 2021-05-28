@@ -41,86 +41,110 @@ Daily Schedule (Subject To Change!)
   -- Front-end, back-end, API & databases
 
 - Class Session 7: Full-Stack Development II | 
+  -- Front-ends: HTML
+
+- Class Session 8: Full-Stack Development II | 
+  -- Front-ends: CSS, 
+
+- Class Session 9: Full-Stack Development II | 
   -- Front-ends: How HTML, CSS & JavaScript Work Together on the web
 
-- Class Session 8: Full-Stack Development III | 
-  -- DOM manipulation - changing the HTML & CSS with JavaScript
+- Class Session 10: Full-Stack Development III | 
+  -- DOM manipulation w/ REACT & Shadow DOM - changing the HTML & CSS with JavaScript
 
-- Class Session 9: Full-Stack Development IV | 
-  -- more DOM manipulation - events
+- Class Session 11: Full-Stack Development IV | 
+  -- more DOM manipulation 
 
-- Class Session 10: Introduction to NodeJS | 
+- Class Session 12: A little more JS
+
+- Class Session 13: The Terminal
+
+- Class Session 14: More Terminal
+
+- Class Session 15: Packages and NPM
+
+- Class Session 16: Server Administration
+
+- Class Session 17: Introduction to NodeJS | 
   -- Deeper into JavaScript
 
-- Class Session 11: A little more JS
-
-- Class Session 12: The Terminal
-
-- Class Session 13: More Terminal
-
-- Class Session 14: Packages and NPM
-
-- Class Session 15: REACT
+- Class Session 18: REACT
   -- REACT Components, Props & State
 
-- Class Session 16: Pair programming
+- Class Session 19: REACT 
+  -- MORE Components
 
-- Class Session 17: REACT II
+- Class Session 20: REACT 
+  -- MORE Components
+
+- Class Session 21: Pair programming
+
+- Class Session 22: REACT II
   -- State using hooks
 
-- Class Session 18: REACT III
+- Class Session 23: REACT III
   -- Advanced React Patterns
 
-- Class Session 19: REACT IV
+- Class Session 24: REACT IV
   -- React Router
 
-- Class Session 20: REACT V
+- Class Session 25: REACT V
   -- Forms
 
-- Class Session 21: REACT VI
+- Class Session 26: REACT VI
   -- Form Validation
 
-- Class Session 22: APIs & SDKs
+- Class Session 27: Async Calls
+  -- Async, Promises
 
-- Class Session 23: Async Calls
+- Class Session 28: APIs & SDKs
+  -- more async & APIs, etc
 
-- Class Session 24: Databases I
+- Class Session 29: Databases I
   -- SQL vs NoSQL, Setup and Connecting
 
-- Class Session 25: Databases II
+- Class Session 30: Databases II
   -- Sequalize with REACT
 
-- Class Session 25: Intro to DS
+- Class Session 31: Databases II
+  -- NoSQL practice
 
-- Class Session 26: Tech Interview Preparation I
+- Class Session 32: Intro to DS
 
-- Class Session 27: Project
+- Class Session 33: Intro to Algorithms
 
-- Class Session 28: Tech Interview Preparation I
+- Class Session 34: Technical Literacy 
+  -- how to read an SDK
 
-- Class Session 29: Project
+- Class Session 35: Technical Literacy
+  -- How to read logs and errors - errors
 
-- Class Session 30: Tech Interview Preparation II
+- Class Session 36: Testing
 
-- Class Session 31: Project
+- Class Session 37: Planning a solution with psuedocode
 
-- Class Session 32: Tech Interview Preparation III
-
-- Class Session 33: Project
-
-- Class Session 34: Tech Interview Preparation IV
-
-- Class Session 35: Project
-
-- Class Session 36: Tech Interview Preparation V
-
-- Class Session 37: Project
-
-- Class Session 38: Tech Interview Preparation VI
+- Class Session 38: Buffer day
 
 - Class Session 39: Project
 
-- Class Session 40: Tech Interview Preparation VII
+- Class Session 40: Tech Interview Preparation III 
+  -- asking questions, making sure you know the problem
+
+- Class Session 41: Project
+
+- Class Session 42: Tech Interview Preparation IV
+
+- Class Session 43: Project
+
+- Class Session 44: Tech Interview Preparation V
+
+- Class Session 45: Project
+
+- Class Session 46: Tech Interview Preparation VI
+
+- Class Session 47: Project
+
+- Class Session 48: Tech Interview Preparation VII
 
 - Exit Assessment and Demo Day | 
 
